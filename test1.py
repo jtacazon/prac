@@ -20,6 +20,9 @@ def goodbye_world():
 
 def lol():
 	print ("lol")
+	print ("lol")
+	print ("lol")
+	print ("lol")
 	
 if __name__ == '__main__':
 	sup_world()
