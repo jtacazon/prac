@@ -9,11 +9,13 @@ def do_something_else():
 	b = 2
 	print (a*b)
 
-	
 def hello_world():
 	print ("Hello World!")
 
+def sup_world():
+	print ("sup world")
+	
 if __name__ == '__main__':
-	hello_world()
+	sup_world()
 
 
