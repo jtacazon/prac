@@ -20,6 +20,12 @@ def goodbye_world():
 
 def rofl():
 	print ("rofl")
+
+def lol():
+	print ("lol")
+	print ("lol")
+	print ("lol")
+	print ("lol")
 	
 if __name__ == '__main__':
 	goodbye_world()
