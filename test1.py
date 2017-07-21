@@ -22,6 +22,7 @@ if __name__ == '__main__':
 	sup_world()
 	goodbye_world()
 	hello_world()
+	hello_world()
 
 
 
