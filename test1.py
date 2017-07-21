@@ -14,8 +14,13 @@ def hello_world():
 
 def sup_world():
 	print ("sup world")
+
+def goodbye_world():
+	print ("goodbye World!")
 	
 if __name__ == '__main__':
 	sup_world()
+	goodbye_world()
+
 
 
