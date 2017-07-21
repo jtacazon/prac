@@ -3,8 +3,11 @@ def do_something():
 	b = 2
 	c = 3
 	print a+b
+	
+def hello_world():
+	print ("Hello World!")
 
 if __name__ == '__main__':
-	do_something()
+	hello_world()
 
 
